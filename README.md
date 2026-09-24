@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sharagulov&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sharagulov&icon=3&color=cyan)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sharagulov&icon=3&color=00ffff)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
